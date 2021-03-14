@@ -1,3 +1,21 @@
+#Slack clone with all basic feature
+#Login with google authentication
+![](https://github.com/QuocVietHa08/slack-clone/blob/master/image/Login.png);
+
+#Sidebar 
+#Login with google authentication
+![](https://github.com/QuocVietHa08/slack-clone/blob/master/image/SidebarSection.png);
+
+#Header
+![](https://github.com/QuocVietHa08/slack-clone/blob/master/image/HeaderSection.png);
+
+#Message
+![](https://github.com/QuocVietHa08/slack-clone/blob/master/image/Message.png);
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
